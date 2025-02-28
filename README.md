@@ -28,7 +28,7 @@ Esta es una API RESTful para gestionar productos. Proporciona operaciones CRUD (
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/productos-api.git
+git clone https://github.com/schleyer93/ProductosAPI.git
 cd productos-api
 ```
 
